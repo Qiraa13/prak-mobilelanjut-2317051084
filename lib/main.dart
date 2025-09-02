@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
           child: Text(
             'Halo nama saya Syauqi Rahmat',
             textAlign: TextAlign.center,
+            style: TextStyle(fontSize: 16),
           )
         )
       )
